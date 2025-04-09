@@ -6,7 +6,7 @@
 </script>
 
 <div class="p-5">
-	<h1>Välkommen till Teamer</h1>
+	<h1>Välkommen till Lagblandaren</h1>
 </div>
 
 <div class="flex-col items-center space-x-2">
