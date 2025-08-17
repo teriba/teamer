@@ -16,9 +16,9 @@ function shuffle(array: string[]) {
 }
 
 const xp = {
-	a: ['Milo', 'Elton', 'Hannes', 'Charlie B'],
-	b: ['Maximilian', 'Charlie G', 'Lucas', 'Kevin', 'Ludvig'],
-	c: ['Tova', 'Lova', 'Julia', 'Oskar', 'Tyra', 'Saga', 'Miranda', 'Iris', 'Kelly']
+	a: ['Milo', 'Manfred', 'Hannes', 'Charlie B'],
+	b: ['Maximilian', 'Charlie G', 'Lucas', 'Kevin', 'Tyr', 'Jack', 'Judi'],
+	c: ['Tova', 'Lova', 'Julia', 'Oskar', 'Tyra', 'Kelly', 'Elias']
 };
 
 export const actions = {
