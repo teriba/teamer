@@ -96,7 +96,6 @@ export const actions = {
 
 export const load: PageServerLoad = async () => {
 	const players = [
-		'Iris',
 		'Charlie B',
 		'Hannes',
 		'Maximilian',
@@ -104,16 +103,18 @@ export const load: PageServerLoad = async () => {
 		'Oskar',
 		'Charlie G',
 		'Tova',
-		'Elton',
 		'Kelly',
 		'Kevin',
-		'Ludvig',
-		'Miranda',
 		'Lucas',
 		'Milo',
 		'Lova',
-		'Saga',
-		'Julia'
+		'Tova',
+		'Julia',
+		'Manfred',
+		'Elias',
+		'Judi',
+		'Tyr',
+		'Jack'
 	];
 
 	return {
